@@ -1,0 +1,9 @@
+body{
+    height: var();
+}
+h1{
+    font-style: normal;
+}
+h2{
+    font-weight: 200;
+}
